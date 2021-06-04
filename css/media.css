@@ -1,0 +1,9 @@
+@media only screen and (max-width: 500px) {
+  .cevap {
+    height: 2rem;
+    width: 3rem;
+    font-size: 1.5rem;
+    color: ivory;
+    text-align: justify;
+  }
+}
